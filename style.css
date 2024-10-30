@@ -55,6 +55,9 @@ nav ul li a {
   cursor: pointer;
 }
 
+.banner.v1 {
+  background-color: red;
+}
 footer {
   background-color: #333;
   color: #fff;
